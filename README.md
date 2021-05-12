@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Cloud Services
 - 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me: chadi-98@live.fr
+- 📫 How to reach me: chadiayari@outlook.com
 
 <!---
 chadiayari/chadiayari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
